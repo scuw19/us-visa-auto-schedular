@@ -10,10 +10,10 @@
 (function () {
     'use strict';
 
-    const email = 'scuw19@gmail.com';
-    const pwd = 'Tuotuo147258!';
-    const start = '2025-11-10';
-    const end = '2025-11-28';
+    const email = 'xxxxx';
+    const pwd = 'xxxx';
+    const start = 'xxxxx';
+    const end = 'xxxxx';
     const exclude = ['2025-04-01', '2025-04-02'];
     const locationId = 95;
     const country = 'ca';
